@@ -1,0 +1,148 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.br-re{
+  border: solid 1px red
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/* My Styles */
+
+/* Fuentes */
+.font-amita{
+  font-family: 'Amita', cursive;
+}
+.font-amaticSC{
+  font-family: 'Amatic SC', cursive;
+}
+
+/* font sizes */
+
+.f-12{
+  font-size: 12px;
+}
+.f-14{
+  font-size: 14px;
+}
+.f-16{
+  font-size: 16px;
+}
+.f-18{
+  font-size: 18px;
+}
+.f-20{
+  font-size: 20px;
+}
+.f-22{
+  font-size: 22px;
+}
+
+/* font weight */
+
+.w-400{
+  font-weight: 400;
+}
+.w-700{
+  font-weight: 700;
+}
+
+/* Backgrounds */
+.bg-amarillo{
+  background-color:#F3D99E ;
+}
+.bg-lila{
+  background-color:#7C6D98 ;
+}
+.bg-celeste{
+  background-color:#90A5B8 ;
+}
+.bg-verde{
+  background-color:#019393 ;
+}
+.bg-rosa{
+  background-color:#EE96A2 ;
+}
+
+/* Font Color */
+.amarillo{
+  color:#F3D99E ;
+}
+.lila{
+  color:#7C6D98 ;
+}
+.celeste{
+  color:#90A5B8 ;
+}
+.verde{
+  color:#019393 ;
+}
+.rosa{
+  color:#EE96A2 ;
+}
+
+
+/* Navbar Custom */
+.navbar-light .navbar-brand {
+  color: rgba(124, 109, 152,0.9);
+}
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+  color: rgba(124, 109, 152, 0.9);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(124, 109, 152, 0.5);
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: rgba(124, 109, 152, 0.7);
+}
+
+.navbar-light .navbar-nav .nav-link.disabled {
+  color: rgba(124, 109, 152, 0.3);
+}
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgba(124, 109, 152, 0.9);
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(124, 109, 152, 0.5);
+  border-color: rgba(124, 109, 152, 0.1);
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-light .navbar-text {
+  color: rgba(124, 109, 152, 0.5);
+}
+
+.navbar-light .navbar-text a {
+  color: rgba(124, 109, 152, 0.9);
+}
+
+.navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
+  color: rgba(124, 109, 152, 0.9);
+}
